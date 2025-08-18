@@ -21,3 +21,7 @@ The project investigates the predictive power of **Social Determinants of Health
 - **Regression modeling** with scikit-learn
 - **PCA-based Vulnerability Index** creation from SDoH indicators
 - **Heat map visualization** with Folium and Pygris
+## Team Members
+- Amy Carr
+- Emeline Rincker
+- Aidan Boldea
