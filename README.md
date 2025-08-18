@@ -13,3 +13,11 @@ The project investigates the predictive power of **Social Determinants of Health
 - The SDoH-based Vulnerability Index was less accurate (root MSE ≈ 13.08)
 - Findings highlight the challenge of **suppressed/missing** CDC data and limitations of county-level modeling
 ## Data Sources
+- CDC Wonder: Multiple Cause of Death Data (2018 - 2022)
+- American Community Survery (ACS): Health insurance, income, employment, housing, education
+- AIDSVu: County-level HIV prevalence rates
+- Plotly GeoJSON: U.S. County boundaries
+## Methods
+- **Regression modeling** with scikit-learn
+- **PCA-based Vulnerability Index** creation from SDoH indicators
+- **Heat map visualization** with Folium and Pygris
