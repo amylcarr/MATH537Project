@@ -1,7 +1,7 @@
 # Exploring Predictive Models for CDC Mortality Data
 
 This repository contains code and analysis in partial fulfillment of requirements for a group project in our **MATH 537 - Topics in Data Science** course at the University of Alabama (Spring 2025).
-The project investigates the predictive power of **Social Determinants of Health (SDoH)** in modeling opioid-related mortality rates for the state of North Carolina. For full analysis, refer to [MATH_537_Team_Project_Report](./MATH_537_Team_Project_Report).
+The project investigates the predictive power of **Social Determinants of Health (SDoH)** in modeling opioid-related mortality rates for the state of North Carolina. For full analysis, refer to [MATH537Project](./MATH_537_Team_Project_Report).
  ## Project Overview
  The opioid crisis remains one of the most urgent public health challenges in the United States. Our project examined whether county-level SDoH data can improve predictive models of opioid overdose mortality. Specifically, we compared:
 - Linear regression models
